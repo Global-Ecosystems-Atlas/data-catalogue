@@ -1,0 +1,11 @@
+{
+  "Source_ID": [172],
+  "title": ["Soy Planted Area"],
+  "abstract": ["This data set provides a spatially-explicit overview of the annual planted area of soybean cultivation across South America’s agricultural frontiers, as described in Song et. al. (2021). Data is available annually from 2000 to 2022 at a 30m spatial resolution for the following biomes: Amazonia, Atlantic Forest, Caatinga, Cerrado, Chaco, Chiquitania, Pampas, and Pantanal.\n\nSong et. al. (2021) integrates long-term satellite imagery with three years of continent-wide field observations to produce annual maps of soybean cultivation. Researchers collected Landsat and MODIS imagery for November 1 through April 30 of each growing season and created 16-day time-series with phenological metrics. These metrics were combined with data on elevation, slope, and aspect and training data from 225 sampling areas to develop soybean probability maps for each year. The field observations were then used to assess the accuracy of the resulting maps, which are constrained to match the areas of field observations."],
+  "provider": ["Global Forest Watch; University of Maryland; INPE Brazil; State University of New York; Universidad de Buenos Aires; Buenos Aires Grain Exchange; Companhia Nacional de Abastecimento Brasilia"],
+  "published_year": ["2022"],
+  "citation": ["Song, XP., Hansen, M.C., Potapov, P. et al. (2022) Soy Planted Area [dataset], Global Forest Watch, available from: https://data.globalforestwatch.org/datasets/gfw::soy-planted-area-/about (accessed 12/08/2024)"],
+  "DOI": [null],
+  "contact_name": ["Michelle Sims (WRI)"],
+  "contact_email": ["michelle.sims@wri.org"]
+}

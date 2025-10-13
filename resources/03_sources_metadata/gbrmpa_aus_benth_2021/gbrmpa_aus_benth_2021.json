@@ -1,0 +1,11 @@
+{
+  "Source_ID": [153],
+  "title": ["GBRMPA Benthic Map"],
+  "abstract": ["Great Barrier Reef 10m Grid (GBR10) GBRMP Benthic. This benthic habitat type map represents the first ever high resolution map of coral reef benthic habitat for the entire Great Barrier Reef Marine Park area and is designed to enable a suite of new management, conservation and scientific activities. The benthic classes include: Sand, Rubble, Rock and Coral/Algae. The key below outlines each of the classes in context of what they describe and their corresponding raster value in the data product."],
+  "provider": ["Great Barrier Reef Marine Park Authority"],
+  "published_year": ["2021"],
+  "citation": ["Roelfsema et al. (2021). How Much Shallow Coral Habitat is there on The Great Barrier Reef. Remote Sensing. https://doi.org/10.3390/rs13214343"],
+  "DOI": [null],
+  "contact_name": ["Manager, Geospatial Services"],
+  "contact_email": ["gis@gbrmpa.gov.au"]
+}

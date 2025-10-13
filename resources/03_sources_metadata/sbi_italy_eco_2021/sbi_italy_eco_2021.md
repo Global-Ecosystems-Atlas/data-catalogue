@@ -1,0 +1,17 @@
+---
+Source ID: 28
+Title: Carta Degli Ecosistemi d’Italia
+Provider: Società Botanica Italiana; Sapienza University of Rome; Ministry of Environment and Energy Security Italy
+Published year: 2021
+DOI: NA
+---
+
+## Abstract
+A second version of the Ecosystems Map of Italy is presented that updates the one realized for the Mapping and Assessment of Ecosystems and their Services (MAES) process. The map represents a renewed reference for the implementation of biodiversity-related policies in the country, including the Red List of Ecosystems, Ecosystem Accounting under the UN System of integrated Environmental and Economic Accounts, EU Nature Restoration Law, and, more in general, for the support of planning initiatives aimed at climate change adaptation and recovery of degraded ecosystems in keeping with restoration ecology principles. The mapping approach recalled the earlier rationale, i.e. that current and potential vegetation are valuable proxies for outlining ecosystems, but basic information on land cover and characterization of types have been updated. Additionally, a detailed description of the mapping procedure is provided that may facilitate replication in time, validation processes and comparison with different maps. The crosswalk between the Italian ecosystem typology and other classification systems, already available for Corine Land Cover and EUNIS habitats, was therefore revised and complemented with respect to the IUCN Global Ecosystem Typology. Finally, future perspectives for a regular updating of the map and further improvement of its geometric and thematic detail are sketched.
+
+## Citation
+C. Blasi, G. Capotorti, S. Bonacquisti,  R. Copiz, E. Del Vico, L. Facioni, L. Zavattero (2021). Carta Degli Ecosistemi d’Italia [dataset], Ministero dell’Ambiente e della Sicurezza Energetica.
+
+## Contact
+**Name:** Carlo Blasi  
+**Email:** carlo.blasi@uniroma1.it; giulia.capotorti@uniroma1.it

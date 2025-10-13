@@ -1,0 +1,11 @@
+{
+  "Source_ID": [229],
+  "title": ["The Multi-source National Forest Inventory Raster Maps of 2021"],
+  "abstract": ["The Finnish Forest Research Institute (Metla) developed a method called\r\nmulti-source national forest inventory (MS-NFI). The first operative results\r\nwere calculated in 1990. Small area forest resource estimates, in here\r\nmunicipality level estimates, and estimates of variables in map form are\r\ncalculated using field data from the Finnish national forest inventory,\r\nsatellite images and other digital georeferenced data, such as topographic\r\ndatabase of the National Land Survey of Finland. Eleven sets of estimates have\r\nbeen produced for the most part of the country until now and ten sets for\r\nLapland. The number of the map form themes in the most recent version, from\r\nyear 2021, is 45. In addition to the volumes by tree species and timber\r\nassortments, the biomass by tree species groups and tree compartments have\r\nbeen estimated."],
+  "provider": ["Finnish Environment Institute (SYKE); Natural Resources Institute Finland (Luke)"],
+  "published_year": ["2021"],
+  "citation": ["Natural Resources Institute Finland (2021), The Multi-source National Forest Inventory Raster Maps of 2021."],
+  "DOI": [null],
+  "contact_name": ["Tytti Kontula"],
+  "contact_email": ["tytti.kontula@syke.fi"]
+}

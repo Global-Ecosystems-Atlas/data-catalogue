@@ -1,0 +1,11 @@
+{
+  "Source_ID": [204],
+  "title": ["Submarine canyons"],
+  "abstract": ["Submarine canyons house some of the most productive and diverse deep sea ecosystems. They can disrupt local currents and channel nutrients from the continental shelves into ocean basins. The flux of nutrients promotes productivity, with high densities of burrowing organisms can live in muddy or sandy bottoms, and filter feeders like cold-water corals inhabit the rocky walls. Canyons provide important shelter, spawning and nursery areas and feeding grounds for many organisms including non-resident megafauna like whales."],
+  "provider": ["IUCN; University of New South Wales"],
+  "published_year": ["2021"],
+  "citation": ["Keith, D. A., & Ferrer-Paris, J. R. (2021). Indicative distribution map for Ecosystem Functional Group M3.2 Submarine canyons (M3.2.web.orig v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5090978"],
+  "DOI": ["https://doi.org/10.5281/zenodo.5090978"],
+  "contact_name": ["Jose Ferrer-Paris"],
+  "contact_email": ["j.ferrer@unsw.edu.au"]
+}

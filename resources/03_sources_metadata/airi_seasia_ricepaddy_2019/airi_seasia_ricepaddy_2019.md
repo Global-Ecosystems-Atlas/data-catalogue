@@ -1,0 +1,17 @@
+---
+Source ID: 291
+Title: Twenty-meter annual paddy rice area map for mainland Southeast Asia using Sentinel-1 synthetic-aperture-radar data
+Provider: Aerospace Information Research Institute China
+Published year: 2022
+DOI: https://doi.org/10.5281/zenodo.7315076
+---
+
+## Abstract
+Over 90 % of the world's rice is produced in the Asia–Pacific region. Synthetic-aperture radar (SAR) enables all-day and all-weather observations of rice distribution in tropical and subtropical regions. The complexity of rice cultivation patterns in tropical and subtropical regions makes it difficult to construct a representative data-relevant rice crop model, increasing the difficulty in extracting rice distributions from SAR data. To address this problem, a rice area mapping method for large regional tropical or subtropical areas based on time-series Sentinel-1 SAR data is proposed in this study. Based on the analysis of rice backscattering characteristics in mainland Southeast Asia, the combination of spatiotemporal statistical features with good generalization ability was selected and then input into the U-Net semantic segmentation model, combined with WorldCover data to reduce false alarms, finally the 20 m resolution rice area map of five countries in mainland Southeast Asia in 2019 was obtained. The proposed method achieved an accuracy of 92.20 % on the validation sample set, and the good agreement was obtained when comparing our rice area map with statistical data and other rice area maps at the national and provincial levels. The maximum coefficient of determination R2 was 0.93 at the national level and 0.97 at the provincial level. These results demonstrate the advantages of the proposed method in rice area mapping with complex cropping patterns and the reliability of the generated rice area maps. The 20 m annual paddy rice area map for mainland Southeast Asia is available at https://doi.org/10.5281/zenodo.7315076 (Sun et al., 2022b).
+
+## Citation
+Sun, C., Zhang, H., Xu, L., Ge, J., Jiang, J., Zuo, L., and Wang, C.: Twenty-meter annual paddy rice area map for mainland Southeast Asia using Sentinel-1 synthetic-aperture-radar data, Earth Syst. Sci. Data, 15, 1501–1520, https://doi.org/10.5194/essd-15-1501-2023, 2023.
+
+## Contact
+**Name:** Hong Zhang  
+**Email:** zhanghong@radi.ac.cn

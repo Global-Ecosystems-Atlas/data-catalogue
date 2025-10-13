@@ -1,0 +1,17 @@
+---
+Source ID: 200
+Title: Bathypelagic ocean waters
+Provider: IUCN; University of New South Wales
+Published year: 2021
+DOI: https://doi.org/10.5281/zenodo.5090916
+---
+
+## Abstract
+These deep (~1000-3000m depth), open-ocean ecosystems receive no sunlight and rely on detritus from upper layers for nutrients. Other resources such as oxygen are replenished via the ‘global ocean conveyer belt’ (thermohaline circulation) that starts when distant, polar surface waters cool and sink. With no primary producers, life is limited to groups like zooplankton, jellyfish, crustaceans, cephalopods and fish like the gulper eel. Common adaptations that enable animals to live under high pressure and no light include slow metabolism, long generation lengths and low density bodies.
+
+## Citation
+Keith, D. A., & Ferrer-Paris, J. R. (2021). Indicative distribution map for Ecosystem Functional Group M2.3 Bathypelagic ocean waters (M2.3.web.orig v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5090916
+
+## Contact
+**Name:** Jose Ferrer-Paris  
+**Email:** j.ferrer@unsw.edu.au
