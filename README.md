@@ -1,5 +1,3 @@
-![](https://earthobservations.org/storage/app/resources/resize/400_0_0_0_auto/img_20e49191fd95e90e7a80d3f6e795558e.webp)
-
 # Overview
 This repository houses all the relevant information about datasets assessed for, and synthesised into, the Global Ecosystems Atlas.
 
