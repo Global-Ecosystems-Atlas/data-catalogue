@@ -3,8 +3,8 @@ This repository houses all the relevant information about datasets assessed for,
 
 ### In here you will find the following resources:
 
-* Atlas [database](https://github.com/Global-Ecosystems-Atlas/data-catalogue/blob/main/resources/01_database_complete_v0.0.9.csv) - a tabular summary of all datasets assessed for inclusion in the Atlas, along with attributes and other metadata.
-* Atlas [catalogue](https://github.com/Global-Ecosystems-Atlas/data-catalogue/blob/main/resources/02_sources_catalogue_v0.0.9.csv) - tabular summary of all source datasets included in the Atlas.
+* [Data catalogue](https://github.com/Global-Ecosystems-Atlas/data-catalogue/blob/main/resources/01_database_complete_v0.0.9.csv) - a tabular summary of all datasets assessed for inclusion in the Atlas, along with attributes and other metadata.
+* [Sources catalogue](https://github.com/Global-Ecosystems-Atlas/data-catalogue/blob/main/resources/02_sources_catalogue_v0.0.9.csv) - tabular summary of all source datasets included in the Atlas.
 * Separate [metadata](https://github.com/Global-Ecosystems-Atlas/data-catalogue/tree/main/resources/03_sources_metadata) files for each of dataset included in the Atlas (.json and .md formats are provided) 
 
 ### Additional resources
