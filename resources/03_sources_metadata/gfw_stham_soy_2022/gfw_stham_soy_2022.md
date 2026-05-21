@@ -3,7 +3,7 @@ Source ID: 172
 Title: Soy Planted Area
 Provider: Global Forest Watch; University of Maryland; INPE Brazil; State University of New York; Universidad de Buenos Aires; Buenos Aires Grain Exchange; Companhia Nacional de Abastecimento Brasilia
 Published year: 2022
-DOI: NA
+URL: https://data.globalforestwatch.org/datasets/gfw::soy-planted-area-/about
 ---
 
 ## Abstract
@@ -14,6 +14,3 @@ Song et. al. (2021) integrates long-term satellite imagery with three years of c
 ## Citation
 Song, XP., Hansen, M.C., Potapov, P. et al. (2022) Soy Planted Area [dataset], Global Forest Watch, available from: https://data.globalforestwatch.org/datasets/gfw::soy-planted-area-/about (accessed 12/08/2024)
 
-## Contact
-**Name:** Michelle Sims (WRI)  
-**Email:** michelle.sims@wri.org

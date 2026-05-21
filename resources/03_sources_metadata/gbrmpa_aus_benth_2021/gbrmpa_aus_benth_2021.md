@@ -3,7 +3,7 @@ Source ID: 153
 Title: GBRMPA Benthic Map
 Provider: Great Barrier Reef Marine Park Authority
 Published year: 2021
-DOI: NA
+URL: https://www.arcgis.com/home/item.html?id=d1c58d71667d490ba650c8fd07d6f7ee#overview:~:text=of%20downloads%3A%20102-,Download,-Description
 ---
 
 ## Abstract
@@ -12,6 +12,3 @@ Great Barrier Reef 10m Grid (GBR10) GBRMP Benthic. This benthic habitat type map
 ## Citation
 Roelfsema et al. (2021). How Much Shallow Coral Habitat is there on The Great Barrier Reef. Remote Sensing. https://doi.org/10.3390/rs13214343
 
-## Contact
-**Name:** Manager, Geospatial Services  
-**Email:** gis@gbrmpa.gov.au

@@ -3,7 +3,7 @@ Source ID: 10
 Title: Australian saltmarsh and sparsely vegetated saltmarsh map version 1.0
 Provider: James Cook University; University of New South Whales; Digital Earth Australia
 Published year: 2023
-DOI: https://doi.org/10.6084/m9.figshare.24021465
+URL: https://figshare.com/articles/dataset/Australian_saltmarsh_and_sparsely_vegetated_saltmarsh_map_version_1_0/24021465/1
 ---
 
 ## Abstract
@@ -18,6 +18,3 @@ The dataset contains a national map of saltmarsh ecosystems produced via a class
 ## Citation
 Navarro, A., Canto, R., M., Lyons, M. & Murray, N.J. (2023) Australian saltmarsh and sparsely vegetated saltmarsh map version 1.0. James Cook University, Townsville.
 
-## Contact
-**Name:** Nicholas Murray  
-**Email:** nicholas.murray@jcu.edu.au

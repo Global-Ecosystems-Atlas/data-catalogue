@@ -1,11 +1,10 @@
 {
   "Source_ID": [183],
+  "data_id_code": ["wcs_mozam_marine_2022"],
   "title": ["Ecossistemas Marinhos - Mozambique"],
   "abstract": ["Data used for MPA Planning in Mozambique"],
   "provider": ["Wildlife Conservation Society"],
-  "published_year": ["2021"],
+  "published_year": [2021],
   "citation": ["Wildlife Conservation Society (2021) Ecosystem Map - Ecosistemas Marinhas, available from: https://wcs-global.maps.arcgis.com/home/item.html?id=cc962d64c9644295b31c8c2a44a72511 (accessed 15/08/2024)"],
-  "DOI": [null],
-  "contact_name": ["Kendall Jones"],
-  "contact_email": ["kendallrawardjones@gmail.com"]
+  "URL": ["https://wcs-global.maps.arcgis.com/apps/webappviewer/index.html?id=b8aa324c46294cd8a685c50771b05828"]
 }

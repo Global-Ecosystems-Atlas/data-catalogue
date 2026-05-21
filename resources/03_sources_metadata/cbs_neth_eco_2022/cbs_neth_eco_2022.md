@@ -3,7 +3,7 @@ Source ID: 68
 Title: 2022 Ecosystem Map Netherlands
 Provider: CBS Netherlands; Wageningen University; Ministry of Agriculture, Nature and Food Quality (LNV)
 Published year: 2022
-DOI: NA
+URL: https://www.cbs.nl/en-gb/society/nature-and-environment/natural-capital/technical-report
 ---
 
 ## Abstract
@@ -14,6 +14,3 @@ The project follows the guidelines of the SEEA EEA developed in the UN context a
 ## Citation
 TBC
 
-## Contact
-**Name:** Frank Prins; Patrick Bogaart  
-**Email:** fr.prins@cbs.nl; pw.bogaart@cbs.nl

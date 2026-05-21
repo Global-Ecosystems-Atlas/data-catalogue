@@ -3,7 +3,7 @@ Source ID: 275
 Title: A new satellite-derived dataset for marine aquaculture in the China's coastal region
 Provider: Zhejiang University; University of Leeds; University of Hong Kong
 Published year: 2020
-DOI: https://doi.org/10.5281/zenodo.3881612
+URL: https://zenodo.org/records/3881612
 ---
 
 ## Abstract
@@ -12,6 +12,3 @@ China has witnessed extensive development of the marine aquaculture industry ove
 ## Citation
 Yongyong Fu, Jinsong Deng, Hongquan Wang, Alexis Comber, Wu Yang, Wenqiang Wu, Shixue You, Yi Lin, & Ke Wang. (2020). A new satellite-derived dataset for marine aquaculture in the China's coastal region
 
-## Contact
-**Name:** Jinsong Deng  
-**Email:** jsong_deng@zju.edu.cn

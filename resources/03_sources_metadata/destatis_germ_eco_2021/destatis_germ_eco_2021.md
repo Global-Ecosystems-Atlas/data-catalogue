@@ -3,7 +3,7 @@ Source ID: 152
 Title: Ecosystem Atlas Germany
 Provider: Statistisches Bundesamt; ARIES
 Published year: 2023
-DOI: NA
+URL: https://www.destatis.de/EN/Themes/Society-Environment/Environment/Environmental-Economic-Accounting/ecosystem-account/_node.html#584336
 ---
 
 ## Abstract
@@ -12,6 +12,3 @@ The ecosystem atlas (only in germany) is an online map viewer that presents the 
 ## Citation
 Federal Statistical Office of Germany (2023): Ecosystem Atlas Germany. https://oekosystematlas-ugr.destatis.de/.
 
-## Contact
-**Name:** Statistisches Bundesamt  
-**Email:** ugr-oesl@destatis.de

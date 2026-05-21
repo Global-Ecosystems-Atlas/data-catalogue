@@ -3,7 +3,7 @@ Source ID: 181
 Title: Living Wales Habitat Map
 Provider: Aberystwyth University; Living Wales; Living Earth
 Published year: 2024
-DOI: NA
+URL: https://earthtrack.aber.ac.uk/livingwales/maps.html
 ---
 
 ## Abstract
@@ -12,6 +12,3 @@ This study introduces a hierarchical-modular framework based on the globally app
 ## Citation
 Punalekar, S.M., Hurford, C., Lucas, R. M., Planque, C., Chognard, S. (2024) Habitat (detailed) 2023 [dataset], available from: https://livingearthhub.org/tools/interactive-map (accessed 24/07/2024)
 
-## Contact
-**Name:** Richard M. Lucas  
-**Email:** rml2@aber.ac.uk

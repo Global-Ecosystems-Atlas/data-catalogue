@@ -3,7 +3,7 @@ Source ID: 291
 Title: Twenty-meter annual paddy rice area map for mainland Southeast Asia using Sentinel-1 synthetic-aperture-radar data
 Provider: Aerospace Information Research Institute China
 Published year: 2022
-DOI: https://doi.org/10.5281/zenodo.7315076
+URL: https://zenodo.org/records/7315076
 ---
 
 ## Abstract
@@ -12,6 +12,3 @@ Over 90 % of the world's rice is produced in the Asia–Pacific region. Synthe
 ## Citation
 Sun, C., Zhang, H., Xu, L., Ge, J., Jiang, J., Zuo, L., and Wang, C.: Twenty-meter annual paddy rice area map for mainland Southeast Asia using Sentinel-1 synthetic-aperture-radar data, Earth Syst. Sci. Data, 15, 1501–1520, https://doi.org/10.5194/essd-15-1501-2023, 2023.
 
-## Contact
-**Name:** Hong Zhang  
-**Email:** zhanghong@radi.ac.cn

@@ -3,7 +3,7 @@ Source ID: 16
 Title: The distribution of global tidal marshes from earth observation data
 Provider: University of Cambridge; University of Siena; The Nature Conservancy; James Cook University
 Published year: 2023
-DOI: https://zenodo.org/doi/10.5281/zenodo.8420752
+URL: https://zenodo.org/records/8420753
 ---
 
 ## Abstract
@@ -14,6 +14,3 @@ Here, we develop a globally consistent tidal marsh distribution map for the year
 ## Citation
 Worthington, T. A., Spalding, M., Landis, E., Maxwell, T. L., Navarro, A., Smart, L. S., & Murray, N. J. (2023). The distribution of global tidal marshes from earth observation data [dataset]. bioRxiv, 2023.2005.2026.542433
 
-## Contact
-**Name:** Thomas Worthington  
-**Email:** taw52@cam.ac.uk

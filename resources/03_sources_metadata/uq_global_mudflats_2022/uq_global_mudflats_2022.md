@@ -3,7 +3,7 @@ Source ID: 12
 Title: High-resolution global maps of tidal flat ecosystems from 1984 to 2019
 Provider: The University of Queensland; University of New South Wales; Google; Australian Institute of Marine Science
 Published year: 2022
-DOI: https://doi.org/10.6084/m9.figshare.c.5884598.v1
+URL: https://springernature.figshare.com/collections/High-resolution_global_maps_of_tidal_flat_ecosystems_from_1984_to_2019/5884598/1
 ---
 
 ## Abstract
@@ -12,6 +12,3 @@ This dataset contains global maps of tidal flat ecosystems produced via a superv
 ## Citation
 Murray, Nicholas; Phinn, Stuart; Fuller, Richard; DeWitt, Michael; Ferrari, Renata; Johnston, Renee; et al. (2022). High-resolution global maps of tidal flat ecosystems from 1984 to 2019. figshare. Collection.
 
-## Contact
-**Name:** Nicholas Murray  
-**Email:** nicholas.murray@jcu.edu.au

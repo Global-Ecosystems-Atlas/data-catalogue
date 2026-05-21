@@ -3,7 +3,7 @@ Source ID: 28
 Title: Carta Degli Ecosistemi d’Italia
 Provider: Società Botanica Italiana; Sapienza University of Rome; Ministry of Environment and Energy Security Italy
 Published year: 2021
-DOI: NA
+URL: https://download.mase.gov.it/Natura2000/Lista%20Rossa%20degli%20Ecosistemi%20Italiani/_prodotto_D/
 ---
 
 ## Abstract
@@ -12,6 +12,3 @@ A second version of the Ecosystems Map of Italy is presented that updates the on
 ## Citation
 C. Blasi, G. Capotorti, S. Bonacquisti,  R. Copiz, E. Del Vico, L. Facioni, L. Zavattero (2021). Carta Degli Ecosistemi d’Italia [dataset], Ministero dell’Ambiente e della Sicurezza Energetica.
 
-## Contact
-**Name:** Carlo Blasi  
-**Email:** carlo.blasi@uniroma1.it; giulia.capotorti@uniroma1.it

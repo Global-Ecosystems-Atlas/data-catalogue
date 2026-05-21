@@ -3,7 +3,7 @@ Source ID: 229
 Title: The Multi-source National Forest Inventory Raster Maps of 2021
 Provider: Finnish Environment Institute (SYKE); Natural Resources Institute Finland (Luke)
 Published year: 2021
-DOI: NA
+URL: NA
 ---
 
 ## Abstract
@@ -23,6 +23,3 @@ been estimated.
 ## Citation
 Natural Resources Institute Finland (2021), The Multi-source National Forest Inventory Raster Maps of 2021.
 
-## Contact
-**Name:** Tytti Kontula  
-**Email:** tytti.kontula@syke.fi

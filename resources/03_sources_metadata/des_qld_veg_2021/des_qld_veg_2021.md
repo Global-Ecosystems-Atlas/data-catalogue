@@ -3,7 +3,7 @@ Source ID: 8
 Title: Remnant 2021 broad vegetation groups - Queensland
 Provider: Department of Environment and Science (Queensland)
 Published year: 2021
-DOI: NA
+URL: https://qldspatial.information.qld.gov.au/catalogue/custom/search.page?q=%22Remnant%202021%20Broad%20Vegetation%20Groups%22
 ---
 
 ## Abstract
@@ -14,6 +14,3 @@ BVGs provide an overview of vegetation across the state or a bioregion. They are
 ## Citation
 Department of Environment and Science (2021), Remnant 2021 broad vegetation groups - Queensland [dataset]. State of Queensland, Australia.
 
-## Contact
-**Name:** Department of Environment and Science  
-**Email:** queensland.herbarium@qld.gov.au

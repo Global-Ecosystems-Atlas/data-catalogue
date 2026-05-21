@@ -3,7 +3,7 @@ Source ID: 110
 Title: Maldivian seagrass aerial extent raster layers 2021 - 2000
 Provider: Northumbria University; Germain Aerospace Centre; Small Island Research Group; Newcastle University; Blue Marine Foundation; Swansea University
 Published year: 2024
-DOI: https://zenodo.org/doi/10.5281/zenodo.11143930
+URL: https://zenodo.org/records/11144240
 ---
 
 ## Abstract
@@ -12,6 +12,3 @@ The contemporary product was derived from Sentinel-2 satellite imagery, operated
 ## Citation
 Floyd, M., East, H., Traganos, D., Musthag, A., Guest, J., Hashim, A., Evans, V., Helber, S., Unsworth, R., & Suggitt, A. (2024). Maldivian seagrass aerial extent raster layers 2021 - 2000 [Data set]. In Scientific Reports. Zenodo.
 
-## Contact
-**Name:** Matthew Floyd  
-**Email:** m.floyd@northumbria.ac.uk

@@ -3,7 +3,7 @@ Source ID: 9
 Title: Allen Coral Atlas
 Provider: Allen Coral Atlas Partnership; University of New South Wales; University of Queensland; James Cook University; Australian Institute of Marine Science; Coral Reef Alliance; Arizona State University; National Geographic Society
 Published year: 2022
-DOI: https://doi.org/10.5281/zenodo.3833242
+URL: https://allencoralatlas.org/atlas/#1.45/6.7737/-141.8664
 ---
 
 ## Abstract
@@ -26,6 +26,3 @@ The reef extent layer more inclusively depicts the shallow coral reef environmen
 ## Citation
 Allen Coral Atlas (2022). Imagery, maps and monitoring of the world's tropical coral reefs. doi.org/10.5281/zenodo.3833242
 
-## Contact
-**Name:** Allen Coral Atlas  
-**Email:** support@allencoralatlas.org; feedback@allencoralatlas.org

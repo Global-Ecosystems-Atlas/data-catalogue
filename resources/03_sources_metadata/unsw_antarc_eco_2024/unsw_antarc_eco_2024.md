@@ -3,7 +3,7 @@ Source ID: 165
 Title: Antarctic Ecosystem Inventory: Ecosystem Typology v1.0
 Provider: University of New South Wales; Australian Antarctic Division;  Monash University; Natural Environment Research Council; University of Johannesburg; Millennium Institute Biodiversity of Antarctic and Subantarctic Ecosystems (BASE); University of Pretoria; James Cook University; University of Wollongong; Queensland University of Technology;  South Australian Museum; University of Adelaide
 Published year: 2024
-DOI: https://doi.org/10.5281/zenodo.11629115
+URL: https://zenodo.org/records/11629115
 ---
 
 ## Abstract
@@ -16,6 +16,3 @@ Methods of development, source data and uses of the inventory are detailed by TÃ
 ## Citation
 TÃ³th, A., Terauds, A., Chown, S. L., Hughes, K. A., Convey, P., Hodgson, D. A., Cowan, D. A., Gibson, J., Leihy, R. I., Murray, N. J., Robinson, S. A., Shaw, J. D., Stark, J. S., Stevens, M. I., van den Hoff, J., Wasley, J., & Keith, D. A. (2024). Antarctic Ecosystem Inventory: Spatial data for Ice-free lands v1.0 [Data set]. In in review (1.0). Zenodo.
 
-## Contact
-**Name:** David Keith  
-**Email:** david.keith@unsw.edu.au

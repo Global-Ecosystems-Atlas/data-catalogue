@@ -3,7 +3,7 @@ Source ID: 11
 Title: Global Mangrove Extent Change 1996–2020: Global Mangrove Watch Version 3.0
 Provider: Global Mangrove Watch team; Aberystwyth University; solo Earth Observation; Wetlands International; University of Maryland; NASA Goddard Space Flight Center; Japan Aerospace Exploration Agency; University of Cambridge; The Nature Conservancy; James Cook University; International Water Management Institute Sri Lanka
 Published year: 2022
-DOI: https://doi.org/10.5281/zenodo.6894272
+URL: https://zenodo.org/records/6894273
 ---
 
 ## Abstract
@@ -12,6 +12,3 @@ This study has used L-band Synthetic Aperture Radar (SAR) global mosaic datasets
 ## Citation
 Bunting, P., Rosenqvist, A., Hilarides, L., Lucas, R., Thomas, N., Tadono, T., Worthington, T., Spalding, M., Murray, N., & Rebelo, L.-M. (2022). Global Mangrove Watch (1996 - 2020) Version 3.0 Dataset (3.0) [Data set]. Zenodo.
 
-## Contact
-**Name:** Global Mangrove Alliance  
-**Email:** contact@mangrovealliance.org

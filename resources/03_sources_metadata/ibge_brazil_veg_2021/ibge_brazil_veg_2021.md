@@ -3,7 +3,7 @@ Source ID: 138
 Title: Mapeamento de Recursos Naturais – Base contínua de Vegetação do Brasil - Escala 1:250 000
 Provider: Instituto Brasileiro de Geografia e Estatística (IBGE)
 Published year: 2021
-DOI: NA
+URL: https://bdiaweb.ibge.gov.br/#/consulta/vegetacao
 ---
 
 ## Abstract
@@ -14,6 +14,3 @@ Vegetation mapping covers the land cover of the national territory, according to
 ## Citation
 Instituto Brasileiro de Geografia e Estatística (2021)  Mapeamento de Recursos Naturais – Base contínua de Vegetação do Brasil - Escala 1:250 000, available from: https://bdiaweb.ibge.gov.br/#/consulta/vegetacao (accessed 09/07/2024)
 
-## Contact
-**Name:** IBGE  
-**Email:** ibge@ibge.gov.br

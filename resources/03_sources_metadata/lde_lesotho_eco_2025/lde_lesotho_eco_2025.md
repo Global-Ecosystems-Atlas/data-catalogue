@@ -3,7 +3,7 @@ Source ID: 300
 Title: Lesotho National Map of Ecosystem Types
 Provider: Lesotho Department of the Environment
 Published year: 2025
-DOI: NA
+URL: NA
 ---
 
 ## Abstract
@@ -18,6 +18,3 @@ Spatial information on natural terrestrial ecosystems, human-modified ecosystems
 ## Citation
 Lesotho national map of ecosystems © 2025 by Lesotho Department of the Environment is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
 
-## Contact
-**Name:** Thabiso Leballo  
-**Email:** leballotj@yahoo.co.uk thabiso.leballo@gov.ls

@@ -3,7 +3,7 @@ Source ID: 2
 Title: Macquarie Island Vegetation and Drainage Structure Data Set
 Provider: Australian Antarctic Data Centre (AADC)
 Published year: 2015
-DOI: NA
+URL: https://data.gov.au/data/dataset/aad-mivegmap
 ---
 
 ## Abstract
@@ -12,6 +12,3 @@ The data for this map were collected as part of two ASAC projects - 488 and 956,
 ## Citation
 Selkirk, P., Adamson, D. and Harris, U. (1999) Macquarie Island Vegetation and Drainage Structure Data Set, Ver. 1, Australian Antarctic Data Centre - https://data.aad.gov.au/metadata/MIvegmap, Accessed: 2024-03-12
 
-## Contact
-**Name:** Not provided  
-**Email:** Not provided

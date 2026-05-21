@@ -3,7 +3,7 @@ Source ID: 213
 Title: Vegetation Formations and Classes of NSW (version 3.03 - 200m Raster)
 Provider: State Government of NSW; Office of Environment and Heritage (OEH)
 Published year: 2012
-DOI: NA
+URL: https://datasets.seed.nsw.gov.au/dataset/vegetation-classes-of-nsw-version-3-03-200m-raster-david-a-keith-and-christopher-c-simpc0917
 ---
 
 ## Abstract
@@ -20,6 +20,3 @@ References: Keith D. A. (2004) Ocean Shores to Desert Dunes: The native vegetati
 ## Citation
 State Government of NSW and Office of Environment and Heritage (OEH) 2024, Vegetation Classes of NSW (version 3.03 - 200m Raster) - David A. Keith and Christopher C. Simpson. VIS_ID 3848, accessed from The Sharing and Enabling Environmental Data Portal [https://devweb.seed.links.com.au/dataset/c6d4b6f5-a54e-4d54-8a94-a1f56c8defea], date accessed 2024-09-02.
 
-## Contact
-**Name:** David Keith  
-**Email:** david.keith@unsw.edu.au

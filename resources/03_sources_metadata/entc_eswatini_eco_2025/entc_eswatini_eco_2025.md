@@ -3,7 +3,7 @@ Source ID: 257
 Title: Eswatini National Ecosystem Data
 Provider: Eswatini National Trust Commission
 Published year: 2025
-DOI: NA
+URL: NA
 ---
 
 ## Abstract
@@ -18,6 +18,3 @@ Spatial information on natural terrestrial ecosystems, human-modified ecosystems
 ## Citation
 Eswatini national map of ecosystems © 2025 by The Eswatini National Trust Commission is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
 
-## Contact
-**Name:** Saneliso Makhanya  
-**Email:** saneliso.makhanya@entc.org.sz
