@@ -1,0 +1,14 @@
+---
+Source ID: 396
+Title: Copernicus 10 m Global Land Cover Map (LCM)
+Provider: VITO - Flemish Institute for Technological Research
+Published year: 2025
+URL: https://land.copernicus.eu/en/products/global-dynamic-land-cover/land-cover-2020-raster-10-m-global-annual
+---
+
+## Abstract
+This report outlines the validation of the Land Cover Map 10-meter (LCM-10) Version 1 (V1) raster product for the year 2020. The primary objective of this validation exercise is to quantitatively assess the thematic accuracy of the LCM-10 2020 V1 product at global, continental, and biogeographical levels. This assessment evaluates whether the product meets the specified accuracy requirements of over 85% for overall accuracy and over 75% for individual class accuracies (see Chapter 2). This document provides users and stakeholders with transparent and scientifically sound information regarding the quality and reliability of the land cover map, ensuring its fitness for purpose in a diverse range of applications.
+
+## Citation
+European Union's Copernicus Land Monitoring Service information; https://doi.org/10.2909/602507b2-96c7-47bb-b79d-7ba25e97d0a9
+

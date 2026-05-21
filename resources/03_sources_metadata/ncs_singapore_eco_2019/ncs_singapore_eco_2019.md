@@ -1,0 +1,14 @@
+---
+Source ID: 412
+Title: A high-resolution map of Singapore’s terrestrial ecosystems
+Provider: Natural Capital Singapore; Campus for Research Excellence and Technological Enterprise; National Parks Board Singapore
+Published year: 2019
+URL: https://figshare.com/articles/dataset/A_high-resolution_map_of_Singapore_s_terrestrial_ecosystems/8267510/4
+---
+
+## Abstract
+The natural and semi-natural areas within cities provide important refuges for biodiversity, as well as many benefits to people. To study urban ecology and quantify the benefits of urban ecosystems, we need to understand the spatial extent and configuration of different types of vegetated cover within a city. It is challenging to map urban ecosystems because they are typically small and highly fragmented; thus requiring high resolution satellite images. This article describes a new high-resolution map of land cover for the tropical city-state of Singapore. We used images from WorldView and QuickBird satellites, and classified these images using random forest machine learning and supplementary datasets into 12 terrestrial land classes. Close to 50 % of Singapore’s land cover is vegetated while freshwater fills about 6 %, and the rest is bare or built up. The overall accuracy of the map was 79 % and the class-specific errors are described in detail. Tropical regions such as Singapore have a lot of cloud cover year-round, complicating the process of mapping using satellite imagery. The land cover map provided here will have applications for urban biodiversity studies, ecosystem service quantification, and natural capital assessment.
+
+## Citation
+Gaw, L. Y.-F., Yee, A. T. K., & Richards, D. R. (2019). A High-Resolution Map of Singapore’s Terrestrial Ecosystems. Data [dataset], 4(3), 116. https://doi.org/10.3390/data4030116
+

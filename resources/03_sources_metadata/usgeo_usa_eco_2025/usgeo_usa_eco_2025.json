@@ -1,0 +1,10 @@
+{
+  "Source_ID": [358],
+  "data_id_code": ["usgeo_usa_eco_2025"],
+  "title": ["U.S. National Vegetation Classification Macrogroups"],
+  "abstract": ["This geospatial dataset contains the Macrogroups of the Conterminous U.S., a hierarchical unit of the U.S. National Vegetation Classification. The Macrogroups are intended to represent terrestrial ecosystems, and were classified using physiognomic, floristic, and environmental characteristics. The data were produced by NatureServe in collaboration with the U.S. Forest Service/LANDFIRE and the U.S. Geological Survey. The dataset includes an attribute identifying the corresponding Ecosystem Functional Group from the IUCN Global Ecosystem Typology."],
+  "provider": ["NatureServe, U.S. Geological Survey, U.S. Forest Service/LANDFIRE"],
+  "published_year": [2026],
+  "citation": ["TBC"],
+  "URL": ["https://usnvc.org/"]
+}

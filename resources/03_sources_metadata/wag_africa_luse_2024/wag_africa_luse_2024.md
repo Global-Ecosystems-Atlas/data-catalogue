@@ -1,0 +1,15 @@
+---
+Source ID: 428
+Title: Land use following deforestation for Africa
+Provider: Wageningen University
+Published year: 2024
+URL: https://doi.org/10.5281/zenodo.11065705
+---
+
+## Abstract
+African forest are increasingly in decline as a result of land-use conversion due to human activities. However, a consistent and detailed characterization and mapping of land-use change that results in forest loss is not available at the spatial-temporal resolution and thematic levels suitable for decision-making at the local and regional scales; so far they have only been provided on coarser scales and restricted to humid forests. Here we present the first high-resolution (5 m) and continental-scale mapping of land use following deforestation in Africa, which covers an estimated 13.85% of the global forest area, including humid and dry forests. We use reference data for 15 different land-use types from 30 countries and implement an active learning framework to train a deep learning model for predicting land-use following deforestation with an F1-score of 
+ for the whole of Africa. Our results show that the causes of forest loss vary by region. In general, small-scale cropland is the dominant driver of forest loss in Africa, with hotspots in Madagascar and DRC. In addition, commodity crops such as cacao, oil palm, and rubber are the dominant drivers of forest loss in the humid forests of western and central Africa, forming an “arc of commodity crops” in that region. At the same time, the hotspots for cashew are found to increasingly dominate in the dry forests of both western and south-eastern Africa, while larger hotspots for large-scale croplands were found in Nigeria and Zambia. The increased expansion of cacao, cashew, oil palm, rubber, and large-scale croplands observed in humid and dry forests of western and south-eastern Africa suggests they are vulnerable to future land-use changes by commodity crops, thus creating challenges for achieving the zero deforestation supply chains, support REDD+ initiatives, and towards sustainable development goals.
+
+## Citation
+Masolele, R. N., Marcos, D., De Sy, V., Abu, I.-O., Verbesselt, J., Reiche, J., & Herold, M. (2024). Land use following deforestation for Africa [Data set]. In Scientific reports (Version v1, Vol. 14, p. 1681). Zenodo.
+

@@ -1,0 +1,10 @@
+{
+  "Source_ID": [90],
+  "data_id_code": ["cdv_global_palm_2024"],
+  "title": ["Global oil palm extent and planting year from 1990 to 2021"],
+  "abstract": ["This repository contains a 10-m global oil palm extent layer for 2021 and a 30-m oil palm planting year layer from 1990 to 2021. The oil palm extent layer was produced using a convolutional neural network that identified industrial and smallholder plantations in Sentinel-1 data. The oil palm planting year was developed using a methodology specifically designed to detect the early stages of oil palm development in the Landsat time series."],
+  "provider": ["Centre for Ecological Research and Forestry Applications (CREAF Barcelona)"],
+  "published_year": [2024],
+  "citation": ["Descals, A. (2024). Global oil palm extent and planting year from 1990 to 2021 (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.11034131"],
+  "URL": ["https://zenodo.org/records/11034131"]
+}

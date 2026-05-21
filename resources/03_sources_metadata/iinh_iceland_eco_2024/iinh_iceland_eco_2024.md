@@ -1,0 +1,23 @@
+---
+Source ID: 245
+Title: Habitat types of Iceland : terrestrial (VG25r_3)
+Provider: Icelandic Institute of Natural History
+Published year: 2024
+URL: https://www.natt.is/en/resources/geospatial-data/habitat-types
+---
+
+## Abstract
+The habitat map shows the distribution of habitat types in Iceland. Habitat types in Iceland are divided into terrestrial, freshwater and coastal.
+
+A total of 64 terrestrial habitat types have been determined, 17 freshwater habitat types and 24 coastal habitat types. Terrestrial habitat types are divided into 12 main categories (habitats). Within terrestrial habitat types, there are four geothermal habitat types found in the high-temperature and low-temperature areas of the country. Terrestrial and freshwater habitat types are divided into two levels, while coastal habitat types are divided into five levels.
+The EUNIS classification system was used to define and classify habitat types in Iceland (European Environment Agency 2012).
+
+The spatial data coverage for terrestrial habitats is in raster format (ni_vg25r_3utg), while the coverage for geothermal, freshwater and coastal habitats is in vector format (ni_vg25v_1.1utg). The vector coverages are mostly patch coverages, but for freshwater there is also line and point coverage. Data for lakes (vg2 = V1) are temporarily removed from the download service due to a dispute over the base map of Loftmyndar ehf., but the coverage is visible in the map viewer.
+
+The Icelandic Institute of Natural History, in the publication Habitats in Iceland, presents proposals for a classification of habitats that is modeled on the harmonized and recognized classification of habitats in Europe. The classification is based on research from around the country, with the reservation that this knowledge could be improved. It should be noted that the differentiation of terrestrial habitats using remote sensing proved difficult, both for sparsely vegetated habitats and for well-vegetated ones, especially within habitats. Therefore, significant errors can be expected, although they vary by habitat type. A more detailed explanation and assessment of errors can be found in the methodology and on the fact pages of habitat types in the publication "Vistgerðir á Íslandi". Further information on the classification and definition of habitat types can be found in the publication (Jón Gunnar Ottósson, Anna Sveinsdóttir and María Harðardóttir, eds. 2016. Vistgerðir á Íslandi. Fjölrit Náttúrufræðistofnunur no. 54. Garðabær: Náttúrufræðistofnun Íslands) and on the website of the Natural History Institute of Iceland.
+
+In the 3rd edition of the 2024 habitat type map, only land habitat types are revised.
+
+## Citation
+Icelandic Institute of Natural History (2024) Habitat types of Iceland : terrestrial 1:25,000, TIFF, ISN93, available from: https://atlas.lmi.is/NI_Data/ (accessed 09/01/2025)
+

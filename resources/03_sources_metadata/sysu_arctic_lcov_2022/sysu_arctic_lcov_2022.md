@@ -1,0 +1,14 @@
+---
+Source ID: 315
+Title: Circumpolar Arctic Land Cover for circa 2020 (CALC-2020)
+Provider: Sun Yat-sen University
+Published year: 2022
+URL: https://www.scidb.cn/en/detail?dataSetId=55d041817b184e1d95ae6d7c512b8612#p2
+---
+
+## Abstract
+Circumpolar Arctic Land Cover for circa 2020 (CALC-2020) is a new baseline land cover product that maps the entire terrestrial Arctic (tree line nowthward) at 10m resolution. This dataset is derived from Sentinel-1/2 and ArcticDEM, using locally adaptive machine learning models trained by sample over 58,000 site locations.
+
+## Citation
+Xiaoqing Xu, Chong Liu, Caixia Liu, et al. (2022) . Circumpolar Arctic Land Cover for circa 2020 (CALC-2020). V1. Science Data Bank. https://doi.org/10.57760/sciencedb.01869.
+

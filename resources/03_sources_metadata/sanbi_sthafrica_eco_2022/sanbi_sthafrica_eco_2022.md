@@ -1,0 +1,14 @@
+---
+Source ID: 180
+Title: Vegetation Map of South Africa crosswalked to the Global Ecosystem Typology (natural and anthropogenic classes)
+Provider: South African National Biodiversity Institute
+Published year: 2024
+URL: NA
+---
+
+## Abstract
+This layer is a combination of (1) the first iteration of the Integrated Ecosystem Map of South Africa (which includes historical mapping for Lesotho and Swaziland) which classifies and delineates the range of ecosystem types in the terrestrial, marine and estuarine realms by combining national maps of ecosystem types form each of these realms.The ecosystem types from the Freshwater realm are not included in this map. This layer is combined with (2) the modified version of the SANLC 2022 specifically for the purposes of cross-walking with the GET anthropogenic ecosystem types for the Global Ecosystem Atlas Project. This combined layer is not currently used in other processes in South Africa.
+
+## Citation
+South African National Biodiversity Institute (2024-). Vegetation Map of South Africa crosswalked to the Global Ecosystem Typology (natural and anthropogenic classes), Skowno, A.L. and Dayaram, A., unpublished version created for the Global Ecosystem Atlas Project,  2024.
+

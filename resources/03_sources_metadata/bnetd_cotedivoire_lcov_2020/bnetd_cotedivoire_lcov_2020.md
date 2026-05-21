@@ -1,0 +1,14 @@
+---
+Source ID: 394
+Title: Cote d'Ivoire BNETD 2020 Land Cover Map
+Provider: BNETD CIGN
+Published year: 2024
+URL: https://developers.google.com/earth-engine/datasets/catalog/BNETD_land_cover_v1
+---
+
+## Abstract
+As part of the implementation of the National Strategy for Sustainable Cocoa (SNCD), there was created, under the supervision of the office of the Prime Minister, an interministerial committee for the establishment of a National System for spatial monitoring of forests and early warning of deforestation called the "interministerial committee." One of the targets to be reached concerns the "National System for spatial monitoring of forests and early warning of deforestation" with two main indicators to be realized by March 31, 2023, at the latest, that is to say (i) the land use map of Côte d’Ivoire, year 2020 and (ii) the specifications of the National System for monitoring of forests and early warning of deforestation.Thus, the Center for Geographic and Digital Information of the National Bureau of Technical Studies and Development (BNETD/CIGN), exclusive holder of the national map library and photo library of Côte d’Ivoire, was entrusted with the component "Development of the land use map of Côte d’Ivoire, year 2020," by reason of the numerous experiences acquired in the matter (Forestry assessment 1994, BDGEO 2004, Forest non-forest map 2015, spatial land surveillance (SST 2016), etc.). To do this, the BNETD/CIGN through a transparent, participatory, robust methodology aligned with international standards has produced the land use map of Côte d’Ivoire, year 2020, with the technical and financial support of the European Union. With this map, Côte d’Ivoire is among the rare countries to offer fundamental data of high quality in an open and free manner. An advancement which reinforces transparency in the agricultural and forestry sector of Côte d’Ivoire. The present document is the methodological note which explains in a detailed way the methodology deployed within the framework of the execution of the project for the development of the land use map of Côte d’Ivoire, year 2020.
+
+## Citation
+Comité technique relatif au système national de suivi des forêts et d’alerte précoce de la déforestation. (2024, March). Note méthodologique de la production de la carte d’occupation des sols 2020 de la Côte d’Ivoire. Cellule chargée de l’élaboration de la carte d’occupation des sols.
+
