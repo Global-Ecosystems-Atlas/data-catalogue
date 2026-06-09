@@ -14,8 +14,7 @@ This repository houses all the relevant information about datasets assessed for,
 ### Citation
 Please use the following citation to cite the data catalogue of the Global Ecosystems Atlas:
 
-Gros-Dubois, N., Lloyd, T.J., Cresswell, B.J., Harmer, T., Lynn, A., Buschke, F.T.,  Canto, R.F., Masson, W., Narayan, D., Saunders, R., Steer, B.S.C., Young, A., Murray, N.J. (2026) Global Ecosystems Atlas Data Catalogue. Github Repository. https://github.com/Global-Ecosystems-Atlas/data-catalogue
-
+* Gros-Dubois, N., Lloyd, T.J., Cresswell, B.J., Harmer, T., Lynn, A., Buschke, F.T.,  Canto, R.F., Masson, W., Narayan, D., Saunders, R., Steer, B.S.C., Young, A., Murray, N.J. (2026) Global Ecosystems Atlas Data Catalogue. Github Repository. https://github.com/Global-Ecosystems-Atlas/data-catalogue
 
 ### Further information:
 For any further information about this repository or the Atlas catalogue, please contact [Nick Murray](nicholas.murray@jcu.edu.au) or [Ben Cresswell](benjamin.cresswell@jcu.edu.au).
