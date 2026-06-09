@@ -1,0 +1,77 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Global Ecosystems Atlas Data Catalogue
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Naema
+    family-names: Gros-Dubois
+    affiliation: James Cook University
+    email: naema.grosdubois@jcu.edu.au
+  - given-names: Thomas
+    name-particle: J.
+    family-names: Lloyd
+    affiliation: James Cook University
+    email: tom.lloyd@jcu.edu.au
+  - email: benjamin.cresswell@jcu.edu.au
+    affiliation: James Cook University
+    given-names: Benjamin
+    name-particle: J.
+    family-names: Cresswell
+  - given-names: Tess
+    family-names: Harmer
+    affiliation: James Cook University
+  - given-names: Alli
+    family-names: Lynn
+    affiliation: James Cook University
+  - given-names: Falko
+    name-particle: T.
+    family-names: Buschke
+    email: fbuschke.ext@geosec.org
+    affiliation: Group on Earth Observation
+  - given-names: Robert
+    name-particle: F.
+    family-names: Canto
+    affiliation: James Cook University
+  - given-names: William
+    family-names: Masson
+    affiliation: James Cook University
+  - given-names: Dhruv
+    family-names: Narayan
+    affiliation: James Cook University
+  - given-names: Rebecca
+    affiliation: James Cook University
+    family-names: Saunders
+  - given-names: Benjamin
+    name-particle: S.C.
+    family-names: Steer
+    affiliation: James Cook University
+  - given-names: Alys
+    name-particle: A.
+    family-names: Young
+    email: alys.young@jcu.edu.au
+    affiliation: James Cook University
+  - given-names: Nicholas
+    name-particle: J.
+    family-names: Murray
+    email: nicholas.murray@jcu.edu.au
+    affiliation: James Cook University
+    orcid: 'https://orcid.org/0000-0002-4008-3053'
+repository-code: 'https://github.com/Global-Ecosystems-Atlas/data-catalogue'
+url: 'https://www.globalecosystemsatlas.org'
+abstract: >-
+  The Global Ecosystems Atlas is a tabular summary of all
+  datasets evaluated for inclusion in the Global Ecosystems
+  Atlas Synthesis Map. Each row in the database is a
+  geospatial dataset identified as a potential source of
+  geospatial data representing ecosystems.
+keywords:
+  - ecosystem
+  - spatial data
+  - global ecosystem typology
+  - biodiversity data
+license: CC-BY-4.0
