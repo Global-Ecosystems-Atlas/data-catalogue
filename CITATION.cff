@@ -35,8 +35,10 @@ authors:
     family-names: Canto
     affiliation: James Cook University
   - given-names: William
+    name-particle: D.
     family-names: Masson
     affiliation: James Cook University
+    orcid: 'https://orcid.org/0009-0008-0413-5283'
   - given-names: Dhruv
     family-names: Narayan
     affiliation: James Cook University
