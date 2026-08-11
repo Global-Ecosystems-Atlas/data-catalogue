@@ -14,6 +14,7 @@ authors:
     family-names: Lloyd
     affiliation: James Cook University
     email: tom.lloyd@jcu.edu.au
+    orcid: 'https://orcid.org/0000-0001-9940-8767'
   - email: benjamin.cresswell@jcu.edu.au
     affiliation: James Cook University
     given-names: Benjamin
@@ -64,9 +65,9 @@ authors:
 repository-code: 'https://github.com/Global-Ecosystems-Atlas/data-catalogue'
 url: 'https://www.globalecosystemsatlas.org'
 abstract: >-
-  The Global Ecosystems Atlas is a tabular summary of all
+  The Global Ecosystems Atlas Data Catalogue is a tabular summary of all
   datasets evaluated for inclusion in the Global Ecosystems
-  Atlas Synthesis Map. Each row in the database is a
+  Atlas Synthesis Map. Each row in the database corresponds to a
   geospatial dataset identified as a potential source of
   geospatial data representing ecosystems.
 keywords:
