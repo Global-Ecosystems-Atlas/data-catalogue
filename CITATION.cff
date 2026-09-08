@@ -9,59 +9,68 @@ authors:
     family-names: Gros-Dubois
     affiliation: James Cook University
     email: naema.grosdubois@jcu.edu.au
+    orcid: https://orcid.org/0009-0005-2765-5773
   - given-names: Thomas
     name-particle: J.
     family-names: Lloyd
     affiliation: James Cook University
     email: tom.lloyd@jcu.edu.au
-    orcid: 'https://orcid.org/0000-0001-9940-8767'
-  - email: benjamin.cresswell@jcu.edu.au
-    affiliation: James Cook University
-    given-names: Benjamin
+    orcid: https://orcid.org/0000-0001-9940-8767
+  - given-names: Benjamin
     name-particle: J.
     family-names: Cresswell
+    affiliation: James Cook University
+    email: benjamin.cresswell@jcu.edu.au
+    orcid: https://orcid.org/0000-0003-0191-8828
   - given-names: Tess
     family-names: Harmer
     affiliation: James Cook University
+    orcid: https://orcid.org/0009-0001-1135-0028
   - given-names: Alli
     family-names: Lynn
     affiliation: James Cook University
+    orcid: https://orcid.org/0009-0004-5379-6708
   - given-names: Falko
     name-particle: T.
     family-names: Buschke
-    email: fbuschke.ext@geosec.org
     affiliation: Group on Earth Observation
+    email: fbuschke.ext@geosec.org
+    orcid: https://orcid.org/0000-0003-1167-7810
   - given-names: Robert
     name-particle: F.
     family-names: Canto
     affiliation: James Cook University
+    orcid: https://orcid.org/0000-0002-4327-2626
   - given-names: William
     name-particle: D.
     family-names: Masson
     affiliation: James Cook University
-    orcid: 'https://orcid.org/0009-0008-0413-5283'
+    orcid: https://orcid.org/0009-0008-0413-5283
   - given-names: Dhruv
     family-names: Narayan
     affiliation: James Cook University
-    orcid: 'https://orcid.org/0009-0003-9892-1368'
+    orcid: https://orcid.org/0009-0003-9892-1368
   - given-names: Rebecca
-    affiliation: James Cook University
     family-names: Saunders
+    affiliation: James Cook University
+    orcid: https://orcid.org/0009-0002-5013-1677
   - given-names: Benjamin
     name-particle: S.C.
     family-names: Steer
     affiliation: James Cook University
+    orcid: https://orcid.org/0000-0001-8242-8358
   - given-names: Alys
     name-particle: A.
     family-names: Young
-    email: alys.young@jcu.edu.au
     affiliation: James Cook University
+    email: alys.young@jcu.edu.au
+    orcid: https://orcid.org/0000-0002-9562-2253
   - given-names: Nicholas
     name-particle: J.
     family-names: Murray
-    email: nicholas.murray@jcu.edu.au
     affiliation: James Cook University
-    orcid: 'https://orcid.org/0000-0002-4008-3053'
+    email: nicholas.murray@jcu.edu.au
+    orcid: https://orcid.org/0000-0002-4008-3053
 doi: 10.5281/zenodo.21831687
 repository-code: https://github.com/Global-Ecosystems-Atlas/data-catalogue
 url: https://www.globalecosystemsatlas.org
