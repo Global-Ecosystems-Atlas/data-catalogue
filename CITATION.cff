@@ -62,8 +62,9 @@ authors:
     email: nicholas.murray@jcu.edu.au
     affiliation: James Cook University
     orcid: 'https://orcid.org/0000-0002-4008-3053'
-repository-code: 'https://github.com/Global-Ecosystems-Atlas/data-catalogue'
-url: 'https://www.globalecosystemsatlas.org'
+doi: 10.5281/zenodo.21831687
+repository-code: https://github.com/Global-Ecosystems-Atlas/data-catalogue
+url: https://www.globalecosystemsatlas.org
 abstract: >-
   The Global Ecosystems Atlas Data Catalogue is a tabular summary of all
   datasets evaluated for inclusion in the Global Ecosystems
