@@ -7,20 +7,20 @@ type: dataset
 authors:
   - given-names: Naema
     family-names: Gros-Dubois
-    affiliation: James Cook University
     email: naema.grosdubois@jcu.edu.au
+    affiliation: James Cook University
     orcid: https://orcid.org/0009-0005-2765-5773
   - given-names: Thomas
-    name-particle: J.
     family-names: Lloyd
-    affiliation: James Cook University
+    name-particle: J.
     email: tom.lloyd@jcu.edu.au
+    affiliation: James Cook University
     orcid: https://orcid.org/0000-0001-9940-8767
   - given-names: Benjamin
-    name-particle: J.
     family-names: Cresswell
-    affiliation: James Cook University
+    name-particle: J.
     email: benjamin.cresswell@jcu.edu.au
+    affiliation: James Cook University
     orcid: https://orcid.org/0000-0003-0191-8828
   - given-names: Tess
     family-names: Harmer
@@ -31,19 +31,20 @@ authors:
     affiliation: James Cook University
     orcid: https://orcid.org/0009-0004-5379-6708
   - given-names: Falko
-    name-particle: T.
     family-names: Buschke
-    affiliation: Group on Earth Observation
+    name-particle: T.
     email: fbuschke.ext@geosec.org
+    affiliation: Group on Earth Observation
     orcid: https://orcid.org/0000-0003-1167-7810
   - given-names: Robert
-    name-particle: F.
     family-names: Canto
+    name-particle: F.
     affiliation: James Cook University
     orcid: https://orcid.org/0000-0002-4327-2626
   - given-names: William
-    name-particle: D.
     family-names: Masson
+    name-particle: D.
+    email: william.masson@jcu.edu.au
     affiliation: James Cook University
     orcid: https://orcid.org/0009-0008-0413-5283
   - given-names: Dhruv
@@ -55,24 +56,28 @@ authors:
     affiliation: James Cook University
     orcid: https://orcid.org/0009-0002-5013-1677
   - given-names: Benjamin
-    name-particle: S.C.
     family-names: Steer
+    name-particle: S.C.
     affiliation: James Cook University
     orcid: https://orcid.org/0000-0001-8242-8358
   - given-names: Alys
-    name-particle: R.
     family-names: Young
-    affiliation: James Cook University
+    name-particle: R.
     email: alys.young@jcu.edu.au
+    affiliation: James Cook University
     orcid: https://orcid.org/0000-0002-9562-2253
   - given-names: Nicholas
-    name-particle: J.
     family-names: Murray
-    affiliation: James Cook University
+    name-particle: J.
     email: nicholas.murray@jcu.edu.au
+    affiliation: James Cook University
     orcid: https://orcid.org/0000-0002-4008-3053
 doi: 10.5281/zenodo.21831687
 repository-code: https://github.com/Global-Ecosystems-Atlas/data-catalogue
+# - Should be in the future: https://github.com/Global-Ecosystems-Atlas/data-catalogue-dev
+# - Double check that this script should be there: https://github.com/Global-Ecosystems-Atlas/data-catalogue/tree/main/code
+#   All code should be in 'data-catalogue-dev', and only data should be in 'data-catalogue'
+# - Rename 'data-catalogue-dev' to something more appropriate, like 'data-catalogue-code' or 'data-catalogue-scripts'
 url: https://www.globalecosystemsatlas.org
 abstract: >-
   The Global Ecosystems Atlas Data Catalogue is a tabular summary of all
